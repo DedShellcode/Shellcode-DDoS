@@ -6,6 +6,6 @@ git clone https://github.com/DedShellcode/Shellcode-DDoS.git
 
 Ruta/ chmod 777 *
 
-python Shellcode-DDos.py
+python ShellAttack.py
 
-python Shellcode-DDoS.py <url>
+python ShellAttack.py <url>
